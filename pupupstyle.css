@@ -16,7 +16,7 @@ h3 {
 
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: #8e24aa;
+  background-color: #ef5350;
   overflow: hidden;
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
@@ -43,8 +43,7 @@ h3 {
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ddd;
-  color: black;
+	scale: 1.2;
 }
 
 .logo img {
